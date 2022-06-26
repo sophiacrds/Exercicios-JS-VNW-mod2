@@ -3,7 +3,7 @@
 </div>
 
 ---
-# <div align="center">Curso de Desenvolvimento front-end da <a href="https://www.vainaweb.com.br" alt="Site do Vai na Web" title="Vai na Web">Escola Vai na Web </a> </div>
+# <div align="center">Curso de Desenvolvimento front-end <br>da <a href="https://www.vainaweb.com.br" alt="Site do Vai na Web" title="Vai na Web">Escola Vai na Web </a> </div>
 
 ## <div align="center">Módulo 02 - Interatividade de páginas</div>
 <div align="center">
@@ -41,7 +41,7 @@ Nesse módulo, após estudo de HTML5 e CSS3 no módulo 01, temos como propósito
   <tr>
     <td align="center">
       <a href="https://github.com/Luan338">
-        <img src="https://avatars.githubusercontent.com/u/75584515?v=4" width="150px;" alt="Foto de Luan Eric no Github"style="border-radius:50%"/><br>
+        <img src="https://avatars.githubusercontent.com/u/75584515?v=4" width="150px;" alt="Foto de Luan Eric no Github"/><br>
         <sub>
           <b>Luan Eric</b>
         </sub>
@@ -49,7 +49,7 @@ Nesse módulo, após estudo de HTML5 e CSS3 no módulo 01, temos como propósito
     </td>
     <td align="center" title="Mariana Melo">
       <a href="https://github.com/askmary">
-        <img src="https://avatars.githubusercontent.com/u/93939350?v=4" width="150px;" alt="Foto de Mariana Melo no GitHub"style="border-radius:50%"/><br>
+        <img src="https://avatars.githubusercontent.com/u/93939350?v=4" width="150px;" alt="Foto de Mariana Melo no GitHub"/><br>
         <sub>
           <b>Mariana Melo</b>
         </sub>
@@ -59,7 +59,6 @@ Nesse módulo, após estudo de HTML5 e CSS3 no módulo 01, temos como propósito
 </table>
 
 ---
-<br>
 <div align="center">
     <a href="https://www.linkedin.com/in/sophia-leão-733880101/" alt="Linkedin"><img src="https://img.shields.io/badge/-Sophia Leão-white?style=flat&logo=Linkedin&logoColor=black"></a>
 </div>
