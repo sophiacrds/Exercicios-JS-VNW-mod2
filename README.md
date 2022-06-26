@@ -1,5 +1,6 @@
-
-<img src="https://i.ibb.co/KXxR09y/Script-1-c-pia-removebg-preview.png" alt="Módulo 02 - Vai Na Web" aling="center">
+<div align="center">
+    <img src="https://i.ibb.co/KXxR09y/Script-1-c-pia-removebg-preview.png" alt="Módulo 02 - Vai Na Web">
+</div>
 
 ---
 # <div align="center">Curso de Desenvolvimento front-end da <a href="https://www.vainaweb.com.br" alt="Site do Vai na Web" title="Vai na Web">Escola Vai na Web </a> </div>
@@ -62,5 +63,3 @@ Nesse módulo, após estudo de HTML5 e CSS3 no módulo 01, temos como propósito
 <div align="center">
     <a href="https://www.linkedin.com/in/sophia-leão-733880101/" alt="Linkedin"><img src="https://img.shields.io/badge/-Sophia Leão-white?style=flat&logo=Linkedin&logoColor=black"></a>
 </div>
-<div align="center"></div>
-<div align="center"></div>
