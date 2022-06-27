@@ -42,5 +42,6 @@ console.table(cadastro);
 
 // Mostre no console o nome de um amigo de cada lista.
 for(let i = 0; i < cadastro.length; i++){;
-console.log(`${cadastro[i].nome} possui umx amigx que se chama ${cadastro[i].amigos[0]}`);
+    let f = Math.floor(Math.random()*(cadastro[i].amigos.length))
+    console.log(`${cadastro[i].nome} possui umx amigx que se chama ${cadastro[i].amigos[f]}`);
 }
