@@ -29,6 +29,7 @@ Nesse módulo, após estudo de HTML5 e CSS3 no módulo 01, temos como propósito
 - [x] 04 - Funções [15/06/22]
 - [x] 05 - Arrays [22/06/22]
 - [x] 06 - Objetos [24/06/22]
+- [x] Atividade de Inglês [28/06/22]
 - [ ] 07 -
 - [ ] 08 -
 - [ ] 09 -
