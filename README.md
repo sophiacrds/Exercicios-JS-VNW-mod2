@@ -17,12 +17,16 @@
 ### Proposta
 Nesse módulo, após estudo de HTML5 e CSS3 no módulo 01, temos como propósito aprofundar os conhecimentos necessários de desenvolvimento front-end. Assim, iniciamos o aprendizado de Javascript com o objetivo de tornar nossas páginas web mais dinâmicas.
 
+
 ### Conteúdo programático
 * Lógica de programação em Javascript;
 * Manipulação do DOM;
 * React.
 
 ### Atividades desenvolvidas nesse módulo (em andamento)
+
+<a href="https://ibb.co/6rzTW9V"><img src="https://i.ibb.co/QpLTKSz/badge-M2-T2.png" alt="Badge Vai Na Web T2.1" width="150" align="right"></a>
+
 - [x] 01 - Variáveis e tipos de dados em Javascript. [08/06/22]
 - [x] 02 - Condicionais [10/06/22]
 - [x] 03 - Repetições [13/06/22]
