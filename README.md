@@ -25,7 +25,7 @@ Nesse módulo, após estudo de HTML5 e CSS3 no módulo 01, temos como propósito
 
 ### Atividades desenvolvidas nesse módulo (em andamento)
 
-<a href="https://ibb.co/6rzTW9V"><img src="https://i.ibb.co/QpLTKSz/badge-M2-T2.png" alt="Badge Vai Na Web T2.1" width="150" align="right"></a>
+<img src="https://i.ibb.co/QpLTKSz/badge-M2-T2.png" alt="Badge Vai Na Web T2.1" width="150" align="right">
 
 - [x] 01 - Variáveis e tipos de dados em Javascript. [08/06/22]
 - [x] 02 - Condicionais [10/06/22]
