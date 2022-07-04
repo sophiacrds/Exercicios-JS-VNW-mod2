@@ -34,7 +34,7 @@ Nesse módulo, após estudo de HTML5 e CSS3 no módulo 01, temos como propósito
 - [x] 05 - Arrays [22/06/22]
 - [x] 06 - Objetos [24/06/22]
 - [x] Atividade de Inglês [28/06/22]
-- [ ] 07 -
+- [x] 07 - <a href="https://sophiacrds.github.io/Landing-Page-LOL-VNW/">Landing page League of Legends</a> [01/07/22]
 - [ ] 08 -
 - [ ] 09 -
 - [ ] 10 -
