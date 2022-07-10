@@ -35,7 +35,7 @@ Nesse módulo, após estudo de HTML5 e CSS3 no módulo 01, temos como propósito
 - [x] 06 - Objetos [24/06/22]
 - [x] Atividade de Inglês [28/06/22]
 - [x] 07 - <a href="https://sophiacrds.github.io/Landing-Page-LOL-VNW/">Landing page League of Legends</a> [01/07/22]
-- [ ] 08 -
+- [x] 08 - REACT 01 - Renderizando um `state` [08/07/22]
 - [ ] 09 -
 - [ ] 10 -
 
