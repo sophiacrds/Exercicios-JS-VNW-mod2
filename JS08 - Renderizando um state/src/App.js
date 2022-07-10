@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import img from "./assets/manga.jpeg";
 
 class App extends Component {
 
@@ -21,6 +22,8 @@ class App extends Component {
           <li>{this.state.musicas[1]}</li>
           <li>{this.state.musicas[2]}</li>
         </ul>
+        <h4>Aqui uma fruta que gosto muito:</h4>
+        <img src={img}/>
       </>
     )
   }
