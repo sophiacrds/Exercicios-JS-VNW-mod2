@@ -15,7 +15,7 @@
 </div>
 
 ### Proposta
-Nesse módulo, após estudo de HTML5 e CSS3 no módulo 01, temos como propósito aprofundar os conhecimentos necessários de desenvolvimento front-end. Assim, iniciamos o aprendizado de Javascript com o objetivo de tornar nossas páginas web mais dinâmicas.
+Nesse módulo, após estudo de HTML5 e CSS3 no módulo 01, temos como propósito aprofundar os conhecimentos necessários de desenvolvimento front-end. Assim, iniciamos o aprendizado de Javascript com o objetivo de tornar nossas páginas web mais dinâmicas através da biblioteca <a href="https://reactjs.org">React</a>.
 
 
 ### Conteúdo programático
@@ -36,8 +36,12 @@ Nesse módulo, após estudo de HTML5 e CSS3 no módulo 01, temos como propósito
 - [x] Atividade de Inglês [28/06/22]
 - [x] 07 - <a href="https://sophiacrds.github.io/Landing-Page-LOL-VNW/">Landing page League of Legends</a> [01/07/22]
 - [x] 08 - REACT 01 - Renderizando um state [08/07/22]
-- [ ] 09 -
-- [ ] 10 -
+- [x] 09 - REACT 02 - <a href="https://codesandbox.io/s/react-03-e-04-bii07k?file=/src/App.js">Componente de classe</a> [11/07/22]
+- [x] 10 - REACT 03 - <a href="https://codesandbox.io/s/react-03-e-04-bii07k?file=/src/App.js">Componente de função</a> [11/07/22]
+- [x] 11 - REACT 04 - <a href="https://codesandbox.io/s/react4-nstm31?file=/src/App.js">Arrow function</a> [13/07/22]
+- [x] 12 - REACT 05 - <a href="https://codesandbox.io/s/react5-r9q8rh?file=/src/App.js">Map()</a> [15/07/22]
+- [ ] 13 
+- [ ] 14
 
 ## <div align="center"> Instrutores técnicos </div>
 É com muito carinho que agradeço aos facilitadores da T2.1 por toda paciência, dedicação e competência. É um prazer enorme poder aprender com vocês e com toda a equipa do Vai na Web.
