@@ -1,3 +1,6 @@
 [submodule "JS07 - Landing page"]
 	path = JS07 - Landing page
 	url = https://github.com/sophiacrds/Landing-Page-LOL-VNW
+[submodule "contador"]
+	path = contador
+	url = https://github.com/sophiacrds/Contador-React-VNW
