@@ -40,7 +40,7 @@ Nesse módulo, após estudo de HTML5 e CSS3 no módulo 01, temos como propósito
 - [x] 10 - REACT 03 - <a href="https://codesandbox.io/s/react-03-e-04-bii07k?file=/src/App.js">Componente de função</a> [11/07/22]
 - [x] 11 - REACT 04 - <a href="https://codesandbox.io/s/react4-nstm31?file=/src/App.js">Arrow function</a> [13/07/22]
 - [x] 12 - REACT 05 - <a href="https://codesandbox.io/s/react5-r9q8rh?file=/src/App.js">Map()</a> [15/07/22]
-- [ ] 13 
+- [x] 13 - DESAFIO REACT 01 - <a href="https://sophiacrds.github.io/Contador-React-VNW/">Contador</a> [20/07/22]
 - [ ] 14
 
 ## <div align="center"> Instrutores técnicos </div>
