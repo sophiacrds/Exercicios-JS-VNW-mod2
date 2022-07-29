@@ -4,3 +4,6 @@
 [submodule "REACT01 - Contador"]
 	path = REACT01 - Contador
 	url = https://github.com/sophiacrds/Contador-React-VNW
+[submodule "REACT02 - Calculadora"]
+	path = REACT02 - Calculadora
+	url = https://github.com/sophiacrds/Calculator-REACT
