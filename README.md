@@ -41,7 +41,7 @@ Nesse módulo, após estudo de HTML5 e CSS3 no módulo 01, temos como propósito
 - [x] 11 - REACT 04 - <a href="https://codesandbox.io/s/react4-nstm31?file=/src/App.js">Arrow function</a> [13/07/22]
 - [x] 12 - REACT 05 - <a href="https://codesandbox.io/s/react5-r9q8rh?file=/src/App.js">Map()</a> [15/07/22]
 - [x] 13 - DESAFIO REACT 01 - <a href="https://sophiacrds.github.io/Contador-React-VNW/">Contador</a> [20/07/22]
-- [ ] 14
+- [x] 14 - DESAFIO REACT 02 - <a href="https://sophiacrds.github.io/Calculator-REACT/">Calculadora em react</a> [25/07/22]
 
 ## <div align="center"> Instrutores técnicos </div>
 É com muito carinho que agradeço aos facilitadores da T2.1 por toda paciência, dedicação e competência. É um prazer enorme poder aprender com vocês e com toda a equipa do Vai na Web.
