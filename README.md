@@ -49,7 +49,7 @@ Nesse módulo, após estudo de HTML5 e CSS3 no módulo 01, temos como propósito
 
 ## <div align="center"> Instrutores técnicos </div>
 
-É com muito carinho que agradeço aos facilitadores da T2.1 por toda paciência, dedicação e competência. É um prazer enorme poder aprender com vocês e com toda a equipa do Vai na Web.
+É com muito carinho que agradeço aos facilitadores da T2.1 por toda paciência, dedicação e competência. É um prazer enorme poder aprender com vocês e com toda a equipe do Vai na Web.
 
 <table align="center">
   <tr>
