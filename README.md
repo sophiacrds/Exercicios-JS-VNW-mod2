@@ -36,7 +36,7 @@ Nesse módulo, após estudo de HTML5 e CSS3 no módulo 01, temos como propósito
 -   [x] 04 - Funções [15/06/22]
 -   [x] 05 - Arrays [22/06/22]
 -   [x] 06 - Objetos [24/06/22]
--   [x] ENGLISH 01 [28/06/22]
+-   [x] ENGLISH 01 - Movies, arrays and objects[28/06/22]
 -   [x] 07 - <a href="https://sophiacrds.github.io/Landing-Page-LOL-VNW/">Landing page League of Legends</a> [01/07/22]
 -   [x] 08 - REACT 01 - Renderizando um state [08/07/22]
 -   [x] 09 - REACT 02 - <a href="https://codesandbox.io/s/react-03-e-04-bii07k?file=/src/App.js">Componente de classe</a> [11/07/22]
