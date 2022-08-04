@@ -7,3 +7,6 @@
 [submodule "REACT02 - Calculadora"]
 	path = REACT02 - Calculadora
 	url = https://github.com/sophiacrds/Calculator-REACT
+[submodule "ENG02 - Mobile First"]
+	path = ENG02 - Mobile First
+	url = https://github.com/sophiacrds/Flavo-MobileFirst-VNW
