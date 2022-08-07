@@ -10,3 +10,6 @@
 [submodule "ENG02 - Mobile First"]
 	path = ENG02 - Mobile First
 	url = https://github.com/sophiacrds/Flavo-MobileFirst-VNW
+[submodule "REACT03 - Todo list"]
+	path = REACT03 - Todo list
+	url = https://github.com/sophiacrds/TodoList-VNW
