@@ -22,30 +22,31 @@ Nesse módulo, após estudo de HTML5 e CSS3 no módulo 01, temos como propósito
 
 ### Conteúdo programático
 
--   Lógica de programação em Javascript;
--   Manipulação do DOM;
--   React.
+-  Lógica de programação em Javascript;
+-  Manipulação do DOM;
+-  React.
 
 ### Atividades desenvolvidas nesse módulo (em andamento)
 
 <img src="https://i.ibb.co/QpLTKSz/badge-M2-T2.png" alt="Badge Vai Na Web T2.1" width="150" align="right">
 
--   [x] 01 - Variáveis e tipos de dados em Javascript. [08/06/22]
--   [x] 02 - Condicionais [10/06/22]
--   [x] 03 - Repetições [13/06/22]
--   [x] 04 - Funções [15/06/22]
--   [x] 05 - Arrays [22/06/22]
--   [x] 06 - Objetos [24/06/22]
--   [x] ENGLISH 01 - Movies, arrays and objects[28/06/22]
--   [x] 07 - <a href="https://sophiacrds.github.io/Landing-Page-LOL-VNW/">Landing page League of Legends</a> [01/07/22]
--   [x] 08 - REACT 01 - Renderizando um state [08/07/22]
--   [x] 09 - REACT 02 - <a href="https://codesandbox.io/s/react-03-e-04-bii07k?file=/src/App.js">Componente de classe</a> [11/07/22]
--   [x] 10 - REACT 03 - <a href="https://codesandbox.io/s/react-03-e-04-bii07k?file=/src/App.js">Componente de função</a> [11/07/22]
--   [x] 11 - REACT 04 - <a href="https://codesandbox.io/s/react4-nstm31?file=/src/App.js">Arrow function</a> [13/07/22]
--   [x] 12 - REACT 05 - <a href="https://codesandbox.io/s/react5-r9q8rh?file=/src/App.js">Map()</a> [15/07/22]
--   [x] 13 - DESAFIO REACT 01 - <a href="https://sophiacrds.github.io/Contador-React-VNW/">Contador</a> [20/07/22]
--   [x] 14 - DESAFIO REACT 02 - <a href="https://sophiacrds.github.io/Calculator-REACT/">Calculadora em react</a> [25/07/22]
--   [x] 15 - ENGLISH 02 - <a href="https://sophiacrds.github.io/Flavo-MobileFirst-VNW/">Flavo Mobile First (and only)</a> [26/07/22]
+-  [x] 01 - Variáveis e tipos de dados em Javascript. [08/06/22]
+-  [x] 02 - Condicionais [10/06/22]
+-  [x] 03 - Repetições [13/06/22]
+-  [x] 04 - Funções [15/06/22]
+-  [x] 05 - Arrays [22/06/22]
+-  [x] 06 - Objetos [24/06/22]
+-  [x] ENGLISH 01 - Movies, arrays and objects[28/06/22]
+-  [x] 07 - <a href="https://sophiacrds.github.io/Landing-Page-LOL-VNW/">Landing page League of Legends</a> [01/07/22]
+-  [x] 08 - REACT 01 - Renderizando um state [08/07/22]
+-  [x] 09 - REACT 02 - <a href="https://codesandbox.io/s/react-03-e-04-bii07k?file=/src/App.js">Componente de classe</a> [11/07/22]
+-  [x] 10 - REACT 03 - <a href="https://codesandbox.io/s/react-03-e-04-bii07k?file=/src/App.js">Componente de função</a> [11/07/22]
+-  [x] 11 - REACT 04 - <a href="https://codesandbox.io/s/react4-nstm31?file=/src/App.js">Arrow function</a> [13/07/22]
+-  [x] 12 - REACT 05 - <a href="https://codesandbox.io/s/react5-r9q8rh?file=/src/App.js">Map()</a> [15/07/22]
+-  [x] 13 - DESAFIO REACT 01 - <a href="https://sophiacrds.github.io/Contador-React-VNW/">Contador</a> [20/07/22]
+-  [x] 14 - DESAFIO REACT 02 - <a href="https://sophiacrds.github.io/Calculator-REACT/">Calculadora em react</a> [25/07/22]
+-  [x] 15 - ENGLISH 02 - <a href="https://sophiacrds.github.io/Flavo-MobileFirst-VNW/">Flavo Mobile First (and only)</a> [26/07/22]
+-  [x] 16 - DESAFIO REACT 03 - <a href="https://sophiacrds.github.io/TodoList-VNW/">Todo List</a> [01/08/22]
 
 ## <div align="center"> Instrutores técnicos </div>
 
