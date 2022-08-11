@@ -47,6 +47,7 @@ Nesse módulo, após estudo de HTML5 e CSS3 no módulo 01, temos como propósito
 -  [x] 14 - DESAFIO REACT 02 - <a href="https://sophiacrds.github.io/Calculator-REACT/">Calculadora em react</a> [25/07/22]
 -  [x] 15 - ENGLISH 02 - <a href="https://sophiacrds.github.io/Flavo-MobileFirst-VNW/">Flavo Mobile First (and only)</a> [26/07/22]
 -  [x] 16 - DESAFIO REACT 03 - <a href="https://sophiacrds.github.io/TodoList-VNW/">Todo List</a> [01/08/22]
+-  [x] 17 - REACT 06 - <a href="https://sophiacrds.github.io/Pratica-Components/">Props</a> [08/08/22]
 
 ## <div align="center"> Instrutores técnicos </div>
 
