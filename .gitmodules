@@ -13,6 +13,3 @@
 [submodule "REACT03 - Todo list"]
 	path = REACT03 - Todo list
 	url = https://github.com/sophiacrds/TodoList-VNW
-[submodule "REACT - Components e props"]
-	path = REACT - Components e props
-	url = https://github.com/sophiacrds/Pratica-Components
