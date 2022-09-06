@@ -67,7 +67,7 @@ Nesse módulo, após estudo de HTML5 e CSS3 no módulo 01, temos como propósito
       </a>
     </td>
     <td align="center" title="Marlon Yuri">
-      <a href="hhttps://github.com/Marlon-Yuri">
+      <a href="https://github.com/Marlon-Yuri">
         <img src="https://avatars.githubusercontent.com/u/79318457?v=4" width="150px;" alt="Foto de Marlon Yuri no GitHub"/><br>
         <sub>
           <b>Marlon Yuri</b>
