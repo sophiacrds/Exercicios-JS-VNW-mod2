@@ -16,3 +16,9 @@
 [submodule "R06 - Components e Props"]
 	path = R06 - Components e Props
 	url = https://github.com/sophiacrds/Pratica-Components
+[submodule "REACT04 - Movies"]
+	path = REACT04 - Movies
+	url = https://github.com/sophiacrds/Movies-api
+[submodule "REACT05 - Todo hooks"]
+	path = REACT05 - Todo hooks
+	url = https://github.com/sophiacrds/hooks-todo
